@@ -1,0 +1,15 @@
+C:\Users\sebas\source\repos\4.PotenciaDeUnNumero\bin\Debug\net10.0\4.PotenciaDeUnNumero.exe
+C:\Users\sebas\source\repos\4.PotenciaDeUnNumero\bin\Debug\net10.0\4.PotenciaDeUnNumero.deps.json
+C:\Users\sebas\source\repos\4.PotenciaDeUnNumero\bin\Debug\net10.0\4.PotenciaDeUnNumero.runtimeconfig.json
+C:\Users\sebas\source\repos\4.PotenciaDeUnNumero\bin\Debug\net10.0\4.PotenciaDeUnNumero.dll
+C:\Users\sebas\source\repos\4.PotenciaDeUnNumero\bin\Debug\net10.0\4.PotenciaDeUnNumero.pdb
+C:\Users\sebas\source\repos\4.PotenciaDeUnNumero\obj\Debug\net10.0\4.PotenciaDeUnNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\4.PotenciaDeUnNumero\obj\Debug\net10.0\4.PotenciaDeUnNumero.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\4.PotenciaDeUnNumero\obj\Debug\net10.0\4.PotenciaDeUnNumero.AssemblyInfo.cs
+C:\Users\sebas\source\repos\4.PotenciaDeUnNumero\obj\Debug\net10.0\4.PotenciaDeUnNumero.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\4.PotenciaDeUnNumero\obj\Debug\net10.0\4.PotenciaDeUnNumero.dll
+C:\Users\sebas\source\repos\4.PotenciaDeUnNumero\obj\Debug\net10.0\refint\4.PotenciaDeUnNumero.dll
+C:\Users\sebas\source\repos\4.PotenciaDeUnNumero\obj\Debug\net10.0\4.PotenciaDeUnNumero.pdb
+C:\Users\sebas\source\repos\4.PotenciaDeUnNumero\obj\Debug\net10.0\4.PotenciaDeUnNumero.genruntimeconfig.cache
+C:\Users\sebas\source\repos\4.PotenciaDeUnNumero\obj\Debug\net10.0\ref\4.PotenciaDeUnNumero.dll
+C:\Users\sebas\source\repos\4.PotenciaDeUnNumero\obj\Debug\net10.0\4.Potenc.542F63F7.Up2Date

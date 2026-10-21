@@ -1,0 +1,15 @@
+C:\Users\sebas\source\repos\3.SumaN\obj\Debug\net10.0\3.SumaN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\3.SumaN\obj\Debug\net10.0\3.SumaN.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\3.SumaN\obj\Debug\net10.0\3.SumaN.AssemblyInfo.cs
+C:\Users\sebas\source\repos\3.SumaN\obj\Debug\net10.0\3.SumaN.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\3.SumaN\bin\Debug\net10.0\3.SumaN.exe
+C:\Users\sebas\source\repos\3.SumaN\bin\Debug\net10.0\3.SumaN.deps.json
+C:\Users\sebas\source\repos\3.SumaN\bin\Debug\net10.0\3.SumaN.runtimeconfig.json
+C:\Users\sebas\source\repos\3.SumaN\bin\Debug\net10.0\3.SumaN.dll
+C:\Users\sebas\source\repos\3.SumaN\bin\Debug\net10.0\3.SumaN.pdb
+C:\Users\sebas\source\repos\3.SumaN\obj\Debug\net10.0\3.SumaN.dll
+C:\Users\sebas\source\repos\3.SumaN\obj\Debug\net10.0\refint\3.SumaN.dll
+C:\Users\sebas\source\repos\3.SumaN\obj\Debug\net10.0\3.SumaN.pdb
+C:\Users\sebas\source\repos\3.SumaN\obj\Debug\net10.0\3.SumaN.genruntimeconfig.cache
+C:\Users\sebas\source\repos\3.SumaN\obj\Debug\net10.0\ref\3.SumaN.dll
+C:\Users\sebas\source\repos\3.SumaN\obj\Debug\net10.0\3.SumaN.csproj.Up2Date

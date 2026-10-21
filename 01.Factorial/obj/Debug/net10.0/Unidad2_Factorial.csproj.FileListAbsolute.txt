@@ -1,0 +1,15 @@
+C:\Users\sebas\source\repos\Unidad2_Factorial\bin\Debug\net10.0\Unidad2_Factorial.exe
+C:\Users\sebas\source\repos\Unidad2_Factorial\bin\Debug\net10.0\Unidad2_Factorial.deps.json
+C:\Users\sebas\source\repos\Unidad2_Factorial\bin\Debug\net10.0\Unidad2_Factorial.runtimeconfig.json
+C:\Users\sebas\source\repos\Unidad2_Factorial\bin\Debug\net10.0\Unidad2_Factorial.dll
+C:\Users\sebas\source\repos\Unidad2_Factorial\bin\Debug\net10.0\Unidad2_Factorial.pdb
+C:\Users\sebas\source\repos\Unidad2_Factorial\obj\Debug\net10.0\Unidad2_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\Unidad2_Factorial\obj\Debug\net10.0\Unidad2_Factorial.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\Unidad2_Factorial\obj\Debug\net10.0\Unidad2_Factorial.AssemblyInfo.cs
+C:\Users\sebas\source\repos\Unidad2_Factorial\obj\Debug\net10.0\Unidad2_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Unidad2_Factorial\obj\Debug\net10.0\Unidad2_Factorial.dll
+C:\Users\sebas\source\repos\Unidad2_Factorial\obj\Debug\net10.0\refint\Unidad2_Factorial.dll
+C:\Users\sebas\source\repos\Unidad2_Factorial\obj\Debug\net10.0\Unidad2_Factorial.pdb
+C:\Users\sebas\source\repos\Unidad2_Factorial\obj\Debug\net10.0\Unidad2_Factorial.genruntimeconfig.cache
+C:\Users\sebas\source\repos\Unidad2_Factorial\obj\Debug\net10.0\ref\Unidad2_Factorial.dll
+C:\Users\sebas\source\repos\Unidad2_Factorial\obj\Debug\net10.0\Unidad2_.C4C6A7E6.Up2Date
