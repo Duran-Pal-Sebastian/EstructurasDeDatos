@@ -1,0 +1,15 @@
+C:\Users\sebas\source\repos\9.SumaRecursividadIndirecta\bin\Debug\net10.0\9.SumaRecursividadIndirecta.exe
+C:\Users\sebas\source\repos\9.SumaRecursividadIndirecta\bin\Debug\net10.0\9.SumaRecursividadIndirecta.deps.json
+C:\Users\sebas\source\repos\9.SumaRecursividadIndirecta\bin\Debug\net10.0\9.SumaRecursividadIndirecta.runtimeconfig.json
+C:\Users\sebas\source\repos\9.SumaRecursividadIndirecta\bin\Debug\net10.0\9.SumaRecursividadIndirecta.dll
+C:\Users\sebas\source\repos\9.SumaRecursividadIndirecta\bin\Debug\net10.0\9.SumaRecursividadIndirecta.pdb
+C:\Users\sebas\source\repos\9.SumaRecursividadIndirecta\obj\Debug\net10.0\9.SumaRecursividadIndirecta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\9.SumaRecursividadIndirecta\obj\Debug\net10.0\9.SumaRecursividadIndirecta.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\9.SumaRecursividadIndirecta\obj\Debug\net10.0\9.SumaRecursividadIndirecta.AssemblyInfo.cs
+C:\Users\sebas\source\repos\9.SumaRecursividadIndirecta\obj\Debug\net10.0\9.SumaRecursividadIndirecta.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\9.SumaRecursividadIndirecta\obj\Debug\net10.0\9.SumaRecursividadIndirecta.dll
+C:\Users\sebas\source\repos\9.SumaRecursividadIndirecta\obj\Debug\net10.0\refint\9.SumaRecursividadIndirecta.dll
+C:\Users\sebas\source\repos\9.SumaRecursividadIndirecta\obj\Debug\net10.0\9.SumaRecursividadIndirecta.pdb
+C:\Users\sebas\source\repos\9.SumaRecursividadIndirecta\obj\Debug\net10.0\9.SumaRecursividadIndirecta.genruntimeconfig.cache
+C:\Users\sebas\source\repos\9.SumaRecursividadIndirecta\obj\Debug\net10.0\ref\9.SumaRecursividadIndirecta.dll
+C:\Users\sebas\source\repos\9.SumaRecursividadIndirecta\obj\Debug\net10.0\9.SumaRe.0CB47E3A.Up2Date

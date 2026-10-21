@@ -1,0 +1,15 @@
+C:\Users\sebas\source\repos\10.Decimal.a.Binario\bin\Debug\net10.0\10.Decimal.a.Binario.exe
+C:\Users\sebas\source\repos\10.Decimal.a.Binario\bin\Debug\net10.0\10.Decimal.a.Binario.deps.json
+C:\Users\sebas\source\repos\10.Decimal.a.Binario\bin\Debug\net10.0\10.Decimal.a.Binario.runtimeconfig.json
+C:\Users\sebas\source\repos\10.Decimal.a.Binario\bin\Debug\net10.0\10.Decimal.a.Binario.dll
+C:\Users\sebas\source\repos\10.Decimal.a.Binario\bin\Debug\net10.0\10.Decimal.a.Binario.pdb
+C:\Users\sebas\source\repos\10.Decimal.a.Binario\obj\Debug\net10.0\10.Decimal.a.Binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\10.Decimal.a.Binario\obj\Debug\net10.0\10.Decimal.a.Binario.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\10.Decimal.a.Binario\obj\Debug\net10.0\10.Decimal.a.Binario.AssemblyInfo.cs
+C:\Users\sebas\source\repos\10.Decimal.a.Binario\obj\Debug\net10.0\10.Decimal.a.Binario.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\10.Decimal.a.Binario\obj\Debug\net10.0\10.Decimal.a.Binario.dll
+C:\Users\sebas\source\repos\10.Decimal.a.Binario\obj\Debug\net10.0\refint\10.Decimal.a.Binario.dll
+C:\Users\sebas\source\repos\10.Decimal.a.Binario\obj\Debug\net10.0\10.Decimal.a.Binario.pdb
+C:\Users\sebas\source\repos\10.Decimal.a.Binario\obj\Debug\net10.0\10.Decimal.a.Binario.genruntimeconfig.cache
+C:\Users\sebas\source\repos\10.Decimal.a.Binario\obj\Debug\net10.0\ref\10.Decimal.a.Binario.dll
+C:\Users\sebas\source\repos\10.Decimal.a.Binario\obj\Debug\net10.0\10.Decim.FCD5776C.Up2Date
