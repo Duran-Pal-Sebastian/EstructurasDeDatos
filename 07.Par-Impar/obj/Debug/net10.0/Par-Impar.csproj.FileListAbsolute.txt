@@ -1,0 +1,15 @@
+C:\Users\sebas\source\repos\Par-Impar\bin\Debug\net10.0\Par-Impar.exe
+C:\Users\sebas\source\repos\Par-Impar\bin\Debug\net10.0\Par-Impar.deps.json
+C:\Users\sebas\source\repos\Par-Impar\bin\Debug\net10.0\Par-Impar.runtimeconfig.json
+C:\Users\sebas\source\repos\Par-Impar\bin\Debug\net10.0\Par-Impar.dll
+C:\Users\sebas\source\repos\Par-Impar\bin\Debug\net10.0\Par-Impar.pdb
+C:\Users\sebas\source\repos\Par-Impar\obj\Debug\net10.0\Par-Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\Par-Impar\obj\Debug\net10.0\Par-Impar.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\Par-Impar\obj\Debug\net10.0\Par-Impar.AssemblyInfo.cs
+C:\Users\sebas\source\repos\Par-Impar\obj\Debug\net10.0\Par-Impar.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Par-Impar\obj\Debug\net10.0\Par-Impar.dll
+C:\Users\sebas\source\repos\Par-Impar\obj\Debug\net10.0\refint\Par-Impar.dll
+C:\Users\sebas\source\repos\Par-Impar\obj\Debug\net10.0\Par-Impar.pdb
+C:\Users\sebas\source\repos\Par-Impar\obj\Debug\net10.0\Par-Impar.genruntimeconfig.cache
+C:\Users\sebas\source\repos\Par-Impar\obj\Debug\net10.0\ref\Par-Impar.dll
+C:\Users\sebas\source\repos\Par-Impar\obj\Debug\net10.0\Par-Impar.csproj.Up2Date

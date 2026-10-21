@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "6.SumaDeDigitosDeUnNumero/1.0.0": {
+        "runtime": {
+          "6.SumaDeDigitosDeUnNumero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "6.SumaDeDigitosDeUnNumero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

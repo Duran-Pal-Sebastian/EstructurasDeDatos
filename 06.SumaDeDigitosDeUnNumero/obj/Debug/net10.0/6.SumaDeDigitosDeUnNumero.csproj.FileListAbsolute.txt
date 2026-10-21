@@ -1,0 +1,15 @@
+C:\Users\sebas\source\repos\6.SumaDeDigitosDeUnNumero\bin\Debug\net10.0\6.SumaDeDigitosDeUnNumero.exe
+C:\Users\sebas\source\repos\6.SumaDeDigitosDeUnNumero\bin\Debug\net10.0\6.SumaDeDigitosDeUnNumero.deps.json
+C:\Users\sebas\source\repos\6.SumaDeDigitosDeUnNumero\bin\Debug\net10.0\6.SumaDeDigitosDeUnNumero.runtimeconfig.json
+C:\Users\sebas\source\repos\6.SumaDeDigitosDeUnNumero\bin\Debug\net10.0\6.SumaDeDigitosDeUnNumero.dll
+C:\Users\sebas\source\repos\6.SumaDeDigitosDeUnNumero\bin\Debug\net10.0\6.SumaDeDigitosDeUnNumero.pdb
+C:\Users\sebas\source\repos\6.SumaDeDigitosDeUnNumero\obj\Debug\net10.0\6.SumaDeDigitosDeUnNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\6.SumaDeDigitosDeUnNumero\obj\Debug\net10.0\6.SumaDeDigitosDeUnNumero.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\6.SumaDeDigitosDeUnNumero\obj\Debug\net10.0\6.SumaDeDigitosDeUnNumero.AssemblyInfo.cs
+C:\Users\sebas\source\repos\6.SumaDeDigitosDeUnNumero\obj\Debug\net10.0\6.SumaDeDigitosDeUnNumero.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\6.SumaDeDigitosDeUnNumero\obj\Debug\net10.0\6.SumaDeDigitosDeUnNumero.dll
+C:\Users\sebas\source\repos\6.SumaDeDigitosDeUnNumero\obj\Debug\net10.0\refint\6.SumaDeDigitosDeUnNumero.dll
+C:\Users\sebas\source\repos\6.SumaDeDigitosDeUnNumero\obj\Debug\net10.0\6.SumaDeDigitosDeUnNumero.pdb
+C:\Users\sebas\source\repos\6.SumaDeDigitosDeUnNumero\obj\Debug\net10.0\6.SumaDeDigitosDeUnNumero.genruntimeconfig.cache
+C:\Users\sebas\source\repos\6.SumaDeDigitosDeUnNumero\obj\Debug\net10.0\ref\6.SumaDeDigitosDeUnNumero.dll
+C:\Users\sebas\source\repos\6.SumaDeDigitosDeUnNumero\obj\Debug\net10.0\6.SumaDe.E9CBF6EC.Up2Date

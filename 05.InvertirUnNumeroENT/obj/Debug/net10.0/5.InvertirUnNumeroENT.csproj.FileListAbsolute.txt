@@ -1,0 +1,15 @@
+C:\Users\sebas\source\repos\5.InvertirUnNumeroENT\bin\Debug\net10.0\5.InvertirUnNumeroENT.exe
+C:\Users\sebas\source\repos\5.InvertirUnNumeroENT\bin\Debug\net10.0\5.InvertirUnNumeroENT.deps.json
+C:\Users\sebas\source\repos\5.InvertirUnNumeroENT\bin\Debug\net10.0\5.InvertirUnNumeroENT.runtimeconfig.json
+C:\Users\sebas\source\repos\5.InvertirUnNumeroENT\bin\Debug\net10.0\5.InvertirUnNumeroENT.dll
+C:\Users\sebas\source\repos\5.InvertirUnNumeroENT\bin\Debug\net10.0\5.InvertirUnNumeroENT.pdb
+C:\Users\sebas\source\repos\5.InvertirUnNumeroENT\obj\Debug\net10.0\5.InvertirUnNumeroENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\5.InvertirUnNumeroENT\obj\Debug\net10.0\5.InvertirUnNumeroENT.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\5.InvertirUnNumeroENT\obj\Debug\net10.0\5.InvertirUnNumeroENT.AssemblyInfo.cs
+C:\Users\sebas\source\repos\5.InvertirUnNumeroENT\obj\Debug\net10.0\5.InvertirUnNumeroENT.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\5.InvertirUnNumeroENT\obj\Debug\net10.0\5.InvertirUnNumeroENT.dll
+C:\Users\sebas\source\repos\5.InvertirUnNumeroENT\obj\Debug\net10.0\refint\5.InvertirUnNumeroENT.dll
+C:\Users\sebas\source\repos\5.InvertirUnNumeroENT\obj\Debug\net10.0\5.InvertirUnNumeroENT.pdb
+C:\Users\sebas\source\repos\5.InvertirUnNumeroENT\obj\Debug\net10.0\5.InvertirUnNumeroENT.genruntimeconfig.cache
+C:\Users\sebas\source\repos\5.InvertirUnNumeroENT\obj\Debug\net10.0\ref\5.InvertirUnNumeroENT.dll
+C:\Users\sebas\source\repos\5.InvertirUnNumeroENT\obj\Debug\net10.0\5.Invert.9435B217.Up2Date
