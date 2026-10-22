@@ -3,8 +3,11 @@
 ## Datos del alumno
 
 Nombre: Sebastian Durán Palma
-Número de control: [Tu número de control]
+
+Número de control: 25410172
+
 Carrera: Ingeniería en Sistemas Computacionales
+
 Materia: Estructuras de Datos
 
 ## Programa 01
