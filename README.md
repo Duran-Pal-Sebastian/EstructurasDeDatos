@@ -8,7 +8,11 @@ Número de control: 25410172
 
 Carrera: Ingeniería en Sistemas Computacionales
 
+Semestre: 3°
+
 Materia: Estructuras de Datos
+
+Docente: Myrna Villegas Gaytán
 
 ## Programa 01
 
