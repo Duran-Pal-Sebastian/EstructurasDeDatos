@@ -1,53 +1,258 @@
-# Programas de Recursividad en C#
+# Estructuras de Datos
 
-Este repositorio contiene una colección de **10 ejercicios prácticos** enfocados en el aprendizaje y aplicación de la **recursividad** en el lenguaje C# (.NET).
+## Datos del alumno
 
----
+Nombre: Sebastian Durán Palma
+Número de control: [Tu número de control]
+Carrera: Ingeniería en Sistemas Computacionales
+Materia: Estructuras de Datos
 
-##  Lista de Programas y Descripción
+## Programa 01
 
-### 01. Factorial
-* **Descripción:** Calcula el factorial de un número entero ($n!$) multiplicando el número por el factorial de su antecesor.
+### Nombre
 
-### 02. Fibonacci
-* **Descripción:** Genera o calcula el énesimo término de la serie de Fibonacci utilizando la relación.
+Factorial
 
-### 03. Suma N
-* **Descripción:** Realiza la suma acumulativa de los primeros $N$ números enteros consecutivos de manera descendente hasta el caso base.
+### Descripción
 
-### 04. Potencia de un Número
-* **Descripción:** Calcula la potencia de una base elevada a un exponente determinado multiplicando iterativamente la base por sí misma de forma recursiva.
+Programa desarrollado en C# que calcula el factorial de un número entero positivo mediante algoritmos recursivos.
 
-### 05. Invertir un Número entero
-* **Descripción:** Toma un número entero y invierte el orden de sus dígitos mediante operaciones matemáticas de módulo y división recursiva.
+### Lenguaje
 
-### 06. Suma de Dígitos de un Número
-* **Descripción:** Descompone un número entero en sus dígitos individuales y calcula la suma total de los mismos.
+C#
 
-### 07. Par - Impar
-* **Descripción:** Determina si un número introducido es par o impar utilizando verificaciones o restas recursivas consecutivas.
+### IDE
 
-### 08. Cuenta Regresiva
-* **Descripción:** Imprime una secuencia descendente de números partiendo desde un valor inicial hasta llegar a cero (o caso base).
+Visual Studio
 
-### 09. Suma con Recursividad Indirecta
-* **Descripción:** Implementa la técnica de **recursividad indirecta** (donde una función `A` llama a una función `B` y esta a su vez vuelve a llamar a `A`) para realizar una operación de suma.
+### Conceptos utilizados
 
-### 10. Decimal a Binario
-* **Descripción:** Convierte un número entero en base 10 a su representación equivalente en sistema binario (base 2) mediante divisiones sucesivas entre 2.
+- Recursividad
+- Casos base y casos recursivos
+- Condicionales
+- Entrada y salida de datos
 
----
+## Programa 02
 
-##  Tecnologías Utilizadas
+### Nombre
 
-* **Lenguaje:** C#
-* **Plataforma:** .NET 10.0 / .NET SDK
-* **Entorno de Desarrollo:** Visual Studio / VS Code
+Fibonacci
 
----
+### Descripción
 
-##  Cómo Ejecutar los Programas
+Programa desarrollado en C# que calcula el enésimo término de la sucesión de Fibonacci de manera recursiva.
 
-1. Clona este repositorio en tu equipo:
-   ```bash
-   git clone [https://github.com/Duran-Pal-Sebastian/Programas-Recursividad.git](https://github.com/Duran-Pal-Sebastian/Programas-Recursividad.git)
+### Lenguaje
+
+C#
+
+### IDE
+
+Visual Studio
+
+### Conceptos utilizados
+
+- Recursividad
+- Sucesiones matemáticas
+- Casos base
+- Entrada y salida de datos
+
+## Programa 03
+
+### Nombre
+
+Suma N
+
+### Descripción
+
+Programa desarrollado en C# que calcula la suma acumulativa de los primeros N números enteros positivos de forma recursiva.
+
+### Lenguaje
+
+C#
+
+### IDE
+
+Visual Studio
+
+### Conceptos utilizados
+
+- Recursividad
+- Acumuladores
+- Condicionales
+- Entrada y salida de datos
+
+## Programa 04
+
+### Nombre
+
+Potencia de un Número
+
+### Descripción
+
+Programa desarrollado en C# que calcula la potencia de una base elevada a un exponente utilizando multiplicaciones recursivas.
+
+### Lenguaje
+
+C#
+
+### IDE
+
+Visual Studio
+
+### Conceptos utilizados
+
+- Recursividad
+- Operaciones aritméticas
+- Casos base
+- Entrada y salida de datos
+
+## Programa 05
+
+### Nombre
+
+Invertir un Número Entero
+
+### Descripción
+
+Programa desarrollado en C# que invierte el orden de los dígitos de un número entero mediante operaciones de módulo y división recursiva.
+
+### Lenguaje
+
+C#
+
+### IDE
+
+Visual Studio
+
+### Conceptos utilizados
+
+- Recursividad
+- Operadores aritméticos (módulo y división)
+- Manipulación de enteros
+- Entrada y salida de datos
+
+## Programa 06
+
+### Nombre
+
+Suma de Dígitos de un Número
+
+### Descripción
+
+Programa desarrollado en C# que descompone un número entero en sus dígitos individuales y calcula la suma total de los mismos recursivamente.
+
+### Lenguaje
+
+C#
+
+### IDE
+
+Visual Studio
+
+### Conceptos utilizados
+
+- Recursividad
+- Descomposición numérica
+- Operaciones matemáticas
+- Entrada y salida de datos
+
+## Programa 07
+
+### Nombre
+
+Par - Impar
+
+### Descripción
+
+Programa desarrollado en C# que determina si un número entero es par o impar utilizando verificaciones recursivas.
+
+### Lenguaje
+
+C#
+
+### IDE
+
+Visual Studio
+
+### Conceptos utilizados
+
+- Recursividad
+- Evaluación lógica
+- Condicionales
+- Entrada y salida de datos
+
+## Programa 08
+
+### Nombre
+
+Cuenta Regresiva
+
+### Descripción
+
+Programa desarrollado en C# que imprime una secuencia numérica descendente desde un valor N inicial hasta llegar al caso base.
+
+### Lenguaje
+
+C#
+
+### IDE
+
+Visual Studio
+
+### Conceptos utilizados
+
+- Recursividad
+- Salida por consola
+- Decremento de variables
+- Entrada y salida de datos
+
+## Programa 09
+
+### Nombre
+
+Suma con Recursividad Indirecta
+
+### Descripción
+
+Programa desarrollado en C# que realiza operaciones de suma utilizando la técnica de recursividad indirecta entre dos o más métodos.
+
+### Lenguaje
+
+C#
+
+### IDE
+
+Visual Studio
+
+### Conceptos utilizados
+
+- Recursividad indirecta
+- Interacción entre métodos
+- Modularidad
+- Entrada y salida de datos
+
+## Programa 10
+
+### Nombre
+
+Decimal a Binario
+
+### Descripción
+
+Programa desarrollado en C# que convierte un número entero de base 10 a su representación equivalente en sistema binario mediante divisiones recursivas.
+
+### Lenguaje
+
+C#
+
+### IDE
+
+Visual Studio
+
+### Conceptos utilizados
+
+- Recursividad
+- Sistemas de numeración
+- Operaciones con enteros
+- Entrada y salida de datos
